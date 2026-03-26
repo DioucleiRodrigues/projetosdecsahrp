@@ -1,0 +1,14 @@
+C:\Users\diouc\Diouclei\desafiobasico\bin\Debug\net10.0\desafiobasico.exe
+C:\Users\diouc\Diouclei\desafiobasico\bin\Debug\net10.0\desafiobasico.deps.json
+C:\Users\diouc\Diouclei\desafiobasico\bin\Debug\net10.0\desafiobasico.runtimeconfig.json
+C:\Users\diouc\Diouclei\desafiobasico\bin\Debug\net10.0\desafiobasico.dll
+C:\Users\diouc\Diouclei\desafiobasico\bin\Debug\net10.0\desafiobasico.pdb
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.AssemblyInfoInputs.cache
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.AssemblyInfo.cs
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.csproj.CoreCompileInputs.cache
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.dll
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\refint\desafiobasico.dll
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.pdb
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\desafiobasico.genruntimeconfig.cache
+C:\Users\diouc\Diouclei\desafiobasico\obj\Debug\net10.0\ref\desafiobasico.dll
