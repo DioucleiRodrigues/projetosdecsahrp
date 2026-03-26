@@ -1,0 +1,14 @@
+C:\Users\diouc\Diouclei\Dicionarios\bin\Debug\net10.0\Dicionarios.exe
+C:\Users\diouc\Diouclei\Dicionarios\bin\Debug\net10.0\Dicionarios.deps.json
+C:\Users\diouc\Diouclei\Dicionarios\bin\Debug\net10.0\Dicionarios.runtimeconfig.json
+C:\Users\diouc\Diouclei\Dicionarios\bin\Debug\net10.0\Dicionarios.dll
+C:\Users\diouc\Diouclei\Dicionarios\bin\Debug\net10.0\Dicionarios.pdb
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.AssemblyInfoInputs.cache
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.AssemblyInfo.cs
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.dll
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\refint\Dicionarios.dll
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.pdb
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\Dicionarios.genruntimeconfig.cache
+C:\Users\diouc\Diouclei\Dicionarios\obj\Debug\net10.0\ref\Dicionarios.dll
